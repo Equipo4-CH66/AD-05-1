@@ -1,2 +1,7 @@
-Queso
-Jamón
+Salchichas
+tocino
+huevo
+leche
+pan
+tortilla
+manzana
