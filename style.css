@@ -2,4 +2,23 @@ html {
     height: 100%;
     width: 100%;
   }
-  
+
+/* Fondo gris - Hecho por Luis */
+body {
+  background-color: gray;
+}
+
+/* Todos los h3 en verde - Hecho por Luis */
+h3 {
+  color: green;
+}
+
+/* Clase azul - Hecho por Luis */
+.blue {
+  color: blue;
+}
+
+/* Un h3 en rojo - Hecho por Luis */
+#red {
+  color: red;
+}
