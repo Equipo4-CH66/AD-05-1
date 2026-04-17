@@ -22,3 +22,9 @@ h3 {
 #red {
   color: red;
 }
+
+img {
+    max-width: 100%;  /* Hace que la imagen se reduzca si el contenedor es más pequeño que ella, pero no la estira si el contenedor es más grande (evitando que se pixele). */
+    height: auto;     /* Mantiene la proporción original de la imagen para que no se vea "aplastada" o estirada. */
+    display: block;   /* (Opcional) Elimina un pequeño espacio en blanco que los navegadores suelen poner debajo de las imágenes.*/
+}
